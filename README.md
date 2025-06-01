@@ -25,9 +25,9 @@
  Один і той самий список копіюється перед кожним запуском алгоритму, щоб забезпечити чесне порівняння.
 
 ## Часова складність
- # Insertion Sort	     -          O(n²)
- # Merge Sort          -        	O(n log n)
- # Timsort	           -          O(n log n)
+ Insertion Sort	     -          O(n²)
+ Merge Sort          -        	O(n log n)
+ Timsort	           -          O(n log n)
 
 ## Результати обчислень:
  Розмір масиву: 1000
